@@ -7,10 +7,9 @@ Meu nome é Geovani sou estudante de engenharia de controle e automação e esto
 
 ## Habilidades e Tecnologias
 
-- Linguagens de Programação: Python, [outras linguagens que você domina]
+- Linguagens de Programação: Python, R, SQL, C, C++
 - Ferramentas de Ciência de Dados: Pandas, NumPy, Scikit-Learn
 - Visualização de Dados: Matplotlib, Seaborn
-- Ferramentas de Controle e Automação: [Liste as ferramentas específicas que você usa]
 
 ## Educação
 
@@ -18,6 +17,6 @@ Atualmente, estou cursando a graduação em Engenharia de Controle e Automação
 
 ## Contato
 
-Sinta-se à vontade para entrar em contato comigo através do meu [LinkedIn](link_para_o_seu_perfil_linkedin) para colaborações, sugestões ou apenas para trocar ideias sobre ciência de dados e automação.
+Sinta-se à vontade para entrar em contato comigo através do meu [LinkedIn](https://www.linkedin.com/in/geovani-porto/) para colaborações, sugestões ou apenas para trocar ideias sobre ciência de dados e automação.
 
 Espero que encontre algo útil ou inspirador aqui! Obrigado por visitar meu repositório. 😊
