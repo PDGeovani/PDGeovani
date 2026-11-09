@@ -1,4 +1,4 @@
-# Jovem Cientista de Dados e Estudante de Engenharia de Controle e Automação
+# Engenheiro de ML e Estudante de Engenharia de Controle e Automação
 
 Bem-vindo ao meu repositório no GitHub! Aqui você encontrará projetos e códigos relacionados à minha jornada como um jovem cientista de dados e estudante de engenharia de controle e automação.
 
